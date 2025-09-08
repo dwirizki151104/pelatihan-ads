@@ -47,7 +47,7 @@
                 <li><a href="/lokasi" class="text-white hover:text-[#f9a400] transition py-2">Lokasi</a></li>
                 <li><a href="/galeri_kami" class="text-white hover:text-[#f9a400] transition py-2">Galeri Kami</a></li>
             </ul>
-            <a href="#daftar" class="cta-button bg-[#f9a400] hover:bg-[#e59400] text-white px-5 py-2 rounded-xl font-semibold shadow transition hidden md:inline-block">Login</a>
+            <a href="https://lms.sekolahadvertiser.com/login" class="cta-button bg-[#f9a400] hover:bg-[#e59400] text-white px-5 py-2 rounded-xl font-semibold shadow transition hidden md:inline-block">Login</a>
             <!-- Hamburger Button -->
             <button id="menu-btn" class="md:hidden text-white text-2xl focus:outline-none">
                 <i class="fas fa-bars"></i>
