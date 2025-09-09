@@ -188,5 +188,9 @@
             </div>
         </div>
     </section>
+    <footer class="bg-black text-white text-center p-4">
+        <a href="https://lms.sekolahadvertiser.com/privacy-policy">Privacy policy</a> @ 2025
+    </footer>
 </body>
+
 </html>
